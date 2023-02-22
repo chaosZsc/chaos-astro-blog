@@ -1,5 +1,5 @@
 {
-	"name": "chaos-blog",
+	"name": "chaos-astro-blog",
 	"type": "module",
 	"version": "0.0.1",
 	"scripts": {
